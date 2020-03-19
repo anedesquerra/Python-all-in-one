@@ -7,5 +7,5 @@ Re-structuring Github repository to minimize folders
 
 
 
-# Python-all-in-one
+# Python-all-in-one team
 Aned Esquerra Arguelles  -  anedesquerra@gmail.com 
